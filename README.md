@@ -13,7 +13,7 @@ This repository contains my exercises, projects, mistakes, notes, experiments, a
 - Current focus: Python & PostgreSQL
 - Goal: Become a professional software engineer
 
-## Current Focus right now
+## Current Focus
 
 - Python
 - PostgreSQL
