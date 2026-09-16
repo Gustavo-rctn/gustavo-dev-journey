@@ -1,0 +1,7 @@
+name = input("What is your name inteiro? ").title()
+name_split = name.split()
+name_formatted = "".join(name_split)
+print(f'{name.upper()}!')
+print(f'{name.lower()}!')
+print(f'{len(name_formatted)}! (quantas letras ao todo sem considerar espaços)')
+print(f'{len(name_split)}!')

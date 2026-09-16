@@ -1,0 +1,7 @@
+sentence = input('Enter a sentence: ')
+letter = sentence.count('a')
+letter_position = sentence.find('a')
+letter_position_r = sentence.rfind('a')
+print(f'letter A shows {letter} times')
+print(f'letter A shows in {letter_position} position')
+print(f'letter A shows in {letter_position_r} position')

@@ -57,6 +57,11 @@ print(f'hello {name:=^20}!')
 n1 = int(input('what is the first number?'))
 n2 = int(input('what is the second number ?'))
 print(f'the value is {n1+n2}')
-
+#=======================================================================================================================
+frase = 'Curso em Video Python'
+print(frase.count('o', 0, 14))
+#=======================================================================================================================
+frase = '   Curso em Video Python   '
+print(len(frase))
 
 
